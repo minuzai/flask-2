@@ -10,6 +10,6 @@ def index() -> str:
 
 app.run(
     host='0.0.0.0',
-    port=80,
+    port=5000,
     debug=False,
 )
